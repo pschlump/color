@@ -1,4 +1,4 @@
-module github.com/fatih/color
+module github.com/pschlump/color
 
 go 1.13
 
